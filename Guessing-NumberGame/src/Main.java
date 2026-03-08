@@ -4,7 +4,7 @@ public class Main{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         boolean menu = true;
-        System.out.println("=============== Welcome at  GUESSING NUMBER GAME ! ================");
+        System.out.println("=============== Welcome to the  GUESSING NUMBER GAME ! ================");
         while(menu) {
             System.out.println("Choose the difficulty level of the game :");
             System.out.println("1. Easy Game");
